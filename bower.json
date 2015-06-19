@@ -1,0 +1,23 @@
+{
+  "name": "angular-material-rpx",
+  "version": "0.9.7.c1",
+  "homepage": "https://github.com/mbasheer-rpx/material",
+  "description": "customized angular material",
+  "main": ["angular-material.css", "angular-material.js"],
+  "keywords": [
+    "customized",
+    "angular",
+    "material"
+  ],
+  "authors": [
+    "Mohammed Basheer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
